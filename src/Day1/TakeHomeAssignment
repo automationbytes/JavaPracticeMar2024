@@ -1,0 +1,10 @@
+1. Write a Java program that checks if a given age is eligible for voting and displays an appropriate message.
+
+2. Create a Java method that determines whether a given number is odd or even, and print the result.
+
+3. Develop a Java program that calculates and assigns grades (A, B, C, D) based on percentage input, using conditional statements.
+90-100%: Grade A
+70-89%: Grade B
+50-69%: Grade C
+Below 50%: Grade D
+4. Implement a Java program that uses a switch statement to display the number of days in a specific month based on user input.
