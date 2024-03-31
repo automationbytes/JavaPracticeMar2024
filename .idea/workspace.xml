@@ -5,15 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fff89630-a0d3-4324-a80b-87672b68963c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaPractice.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day1/helloWorld.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/GitLink.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day2/Array_eg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day2/Arrays_Eg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day2/DecrementLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day2/ForLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day2/Largestnumberinarr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day2/MultiDimArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day2/Notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day2/String_Eg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day2/TakeHomeAssignment" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day2/WhileLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day2/mul.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day1/TakeHomeAssignment" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day1/TakeHomeAssignment" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,44 +37,84 @@
   </component>
   <component name="GitToolBoxStore">
     <option name="projectConfigVersion" value="5" />
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="main" />
+                    <option name="lastUsedInstant" value="1711816296" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="master" />
+                    <option name="lastUsedInstant" value="1711816295" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2ePZO0gHgcOtAsmk6xZuajbG5ly" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Array_eg.executor": "Run",
+    "Application.Arrays_Eg.executor": "Run",
     "Application.ArthimeticOperator.executor": "Run",
     "Application.AssignmentOperator.executor": "Run",
     "Application.BitwiseOperator.executor": "Run",
     "Application.ComparisonOperator.executor": "Run",
+    "Application.DecrementLoop.executor": "Run",
+    "Application.Dowhile.executor": "Run",
+    "Application.ForLoop.executor": "Run",
     "Application.GreaterorLesser.executor": "Run",
     "Application.HelloWorld.executor": "Run",
     "Application.IfConditionalStmts.executor": "Run",
+    "Application.Largestnumberinarr.executor": "Run",
     "Application.LogicalOperators.executor": "Run",
-    "Application.SwitchStmts.executor": "Run",
+    "Application.NestedForLoop.executor": "Run",
+    "Application.String_Eg.executor": "Run",
+    "Application.SwitchStmts.executor": "Debug",
     "Application.Variables.executor": "Run",
+    "Application.WhileLoop.executor": "Run",
     "Application.helloWorld.executor": "Run",
+    "Application.mul.executor": "Run",
     "Application.unaryOperators.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.SwitchStmts">
-    <configuration name="BitwiseOperator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day1.BitwiseOperator" />
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\DevLabs\NovBatch2023\JavaPractice\src\Day1" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.String_Eg">
+    <configuration name="Array_eg" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day2.Array_eg" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day1.*" />
+          <option name="PATTERN" value="Day2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -77,12 +122,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GreaterorLesser" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day1.GreaterorLesser" />
+    <configuration name="Arrays_Eg" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day2.Arrays_Eg" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day1.*" />
+          <option name="PATTERN" value="Day2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,12 +135,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IfConditionalStmts" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day1.IfConditionalStmts" />
+    <configuration name="Largestnumberinarr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day2.Largestnumberinarr" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day1.*" />
+          <option name="PATTERN" value="Day2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,12 +148,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SwitchStmts" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day1.SwitchStmts" />
+    <configuration name="String_Eg" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day2.String_Eg" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day1.*" />
+          <option name="PATTERN" value="Day2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,12 +161,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="unaryOperators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day1.unaryOperators" />
+    <configuration name="mul" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day2.mul" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day1.*" />
+          <option name="PATTERN" value="Day2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,11 +176,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SwitchStmts" />
-        <item itemvalue="Application.GreaterorLesser" />
-        <item itemvalue="Application.IfConditionalStmts" />
-        <item itemvalue="Application.unaryOperators" />
-        <item itemvalue="Application.BitwiseOperator" />
+        <item itemvalue="Application.String_Eg" />
+        <item itemvalue="Application.mul" />
+        <item itemvalue="Application.Largestnumberinarr" />
+        <item itemvalue="Application.Arrays_Eg" />
+        <item itemvalue="Application.Array_eg" />
       </list>
     </recent_temporary>
   </component>

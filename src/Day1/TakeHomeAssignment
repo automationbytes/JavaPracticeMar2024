@@ -7,4 +7,5 @@
 70-89%: Grade B
 50-69%: Grade C
 Below 50%: Grade D
+
 4. Implement a Java program that uses a switch statement to display the number of days in a specific month based on user input.

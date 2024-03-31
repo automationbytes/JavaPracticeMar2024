@@ -1,0 +1,46 @@
+For Loop
+    Traditional For loop (anywhr)
+
+    for(init ; condition ; increment/decrement)
+    {
+        block of statements
+    }
+
+    init - start
+    condition - end
+    increment/decrement - step
+
+    For each loop (Extended For) - Collections/Arrays
+
+While Loop
+
+condition (true){
+
+}
+
+Do While Loop
+
+Array
+
+- non primitive data type
+- data structure
+- used to store more than one values in a variable
+- same datatype (primitive datatypes)
+
+- Dynamic access is allowed in array
+- Duplicates are allowed
+
+Adv:
+Easy storage
+Random access
+
+DisAdv:
+It is fixed in size
+
+int[] arr
+int arr[]
+
+String
+
+Literal way - String pool memory -Shared memory
+New Keyword way - Java Heap memory -
