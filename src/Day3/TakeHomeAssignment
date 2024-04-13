@@ -1,0 +1,17 @@
+1)
+Implement Inheritance
+Vehicle -> Car
+Vehicle -> Bicycle
+
+implement start(), stop(). vehicle. fuel
+Find the Name of inheritance
+
+2)
+Implement parameterized constructors
+Rectangle (width,height)
+
+3)
+Implement Methods to find area for
+circle
+rectangle
+square

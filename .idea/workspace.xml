@@ -5,15 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fff89630-a0d3-4324-a80b-87672b68963c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Day3/Constructor_Eg.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day3/Methods_Eg.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day3/Methods_WO_Static.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day3/NoArgsConstructor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day3/Notes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day3/ParameterizedConstructor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day3/Variables_Eg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day3/HierarchicalInheritance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day3/HybridInheritance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day3/MultiLevelInheritance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day3/SingleInheritance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day3/StaticBlck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day3/Static_Eg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day3/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day3/TakeHomeAssignment" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day3/WOStatic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day3/callByValueMethd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day3/callByvalueClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day3/withoutmain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day2/TakeHomeAssignment" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day2/TakeHomeAssignment" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day3/Notes" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day3/Notes" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,19 +86,29 @@
     "Application.ForLoop.executor": "Run",
     "Application.GreaterorLesser.executor": "Run",
     "Application.HelloWorld.executor": "Run",
+    "Application.HierarchicalInheritance.executor": "Run",
+    "Application.HybridInheritance.executor": "Run",
     "Application.IfConditionalStmts.executor": "Run",
     "Application.Largestnumberinarr.executor": "Run",
     "Application.LogicalOperators.executor": "Run",
     "Application.Methods_Eg.executor": "Run",
     "Application.Methods_WO_Static.executor": "Run",
+    "Application.MultiLevelInheritance.executor": "Run",
     "Application.NestedForLoop.executor": "Run",
     "Application.NoArgsConstructor.executor": "Run",
     "Application.ParameterizedConstructor.executor": "Run",
+    "Application.SingleInheritance.executor": "Run",
+    "Application.StaticBlck.executor": "Run",
+    "Application.Static_Eg.executor": "Run",
     "Application.String_Eg.executor": "Run",
+    "Application.Student.executor": "Run",
     "Application.SwitchStmts.executor": "Debug",
     "Application.Variables.executor": "Run",
     "Application.Variables_Eg.executor": "Run",
+    "Application.WOStatic.executor": "Run",
     "Application.WhileLoop.executor": "Run",
+    "Application.callByValueMethd.executor": "Run",
+    "Application.callByvalueClass.executor": "Run",
     "Application.helloWorld.executor": "Run",
     "Application.mul.executor": "Run",
     "Application.unaryOperators.executor": "Run",
@@ -109,9 +124,9 @@
       <recent name="C:\DevLabs\NovBatch2023\JavaPractice\src\Day1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ParameterizedConstructor">
-    <configuration name="Constructor_Eg" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day3.Constructor_Eg" />
+  <component name="RunManager" selected="Application.HybridInheritance">
+    <configuration name="HierarchicalInheritance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day3.HierarchicalInheritance" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
@@ -123,8 +138,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Methods_Eg" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day3.Methods_Eg" />
+    <configuration name="HybridInheritance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day3.HybridInheritance" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
@@ -136,8 +151,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Methods_WO_Static" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day3.Methods_WO_Static" />
+    <configuration name="MultiLevelInheritance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day3.MultiLevelInheritance" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
@@ -149,8 +164,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NoArgsConstructor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day3.NoArgsConstructor" />
+    <configuration name="SingleInheritance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day3.SingleInheritance" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
@@ -162,8 +177,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ParameterizedConstructor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day3.ParameterizedConstructor" />
+    <configuration name="Student" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day3.Student" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
@@ -177,11 +192,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ParameterizedConstructor" />
-        <item itemvalue="Application.NoArgsConstructor" />
-        <item itemvalue="Application.Constructor_Eg" />
-        <item itemvalue="Application.Methods_WO_Static" />
-        <item itemvalue="Application.Methods_Eg" />
+        <item itemvalue="Application.HybridInheritance" />
+        <item itemvalue="Application.HierarchicalInheritance" />
+        <item itemvalue="Application.MultiLevelInheritance" />
+        <item itemvalue="Application.SingleInheritance" />
+        <item itemvalue="Application.Student" />
       </list>
     </recent_temporary>
   </component>

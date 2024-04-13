@@ -13,3 +13,97 @@ int age()
 {
 int a = 10;
 }
+
+===============================================
+Static Keyword
+==============
+Used for memory management
+
+When we hav the static keyword, it is belongs to class rather than instance of class (Object of class)
+
+4 areas
+
+1) Variable (class variable)
+2) Methods
+3) Block
+4) Nested Class (not gonna use much)
+
+It is used to save memory. (Efficient memory Management)
+
+
+OOP's - Object Oriented Programming
+
+Concept of using object in prg to implement real world entities.
+
+Adv: clear syntax for our code ; easier to execute the code
+
+Objects and class
+(pillars of oops concept)
+Inheritance
+Polymorphism
+Abstraction
+Encapsulation
+
+
+
+class - student
+
+datamembers - state/attr
+name
+age
+phone num
+email
+
+methods -common - functionalty
+-------
+study()
+eat()
+practice()
+
+class
+Classs is collection of similar object
+class is template (conceptual)
+class without any obj
+memory will not be allocated for class
+
+
+object - instance of class
+object is real
+objects cant exist without class
+when obj is init, obj wil hav their own memory
+
+
+Inheritance
+-----------
+Inheritance is mechanism by which one class acquires the properties and features of another class.
+
+The class that inherits the properties is called child class (sub class)
+while the class from which the properties is inherited is classed parent class (super class)
+
+keyword - extends
+
+5 types of inheritance
+
+single inheritance
+multi-level inheritance
+hierarchical inheritance
+multiple inheritance (which not supported by java)
+hybrid inheritance
+
+
+single inheritance - > 1 parent 1 child
+multilevel inheritance -> parent - child - grand child
+
+Animal -> Dog -> Bull Dog
+
+hierarchical inheritance - 1 parent multiple child
+Animal
+1) DOg
+2) Cat
+
+
+Hybrid inheritance - combination of more than 1
+Animal
+1) DOg - Bull Dog (multi lvel)
+2) Cat
+
