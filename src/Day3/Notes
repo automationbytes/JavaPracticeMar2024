@@ -1,0 +1,15 @@
+Variable - Container to store some data in it
+
+3 types
+
+local variable - anything which is declared within the body of the method.
+it can be accessed only within that method
+
+instance variable - inside the class but outside the method. it will be declared as not static
+
+static variable- variable which is declared with static keyword is called static variable
+
+int age()
+{
+int a = 10;
+}

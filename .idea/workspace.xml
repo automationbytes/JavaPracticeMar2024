@@ -5,20 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fff89630-a0d3-4324-a80b-87672b68963c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/GitLink.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day2/Array_eg.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day2/Arrays_Eg.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day2/DecrementLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day2/ForLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day2/Largestnumberinarr.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day2/MultiDimArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day2/Notes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day2/String_Eg.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day2/TakeHomeAssignment" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day2/WhileLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day2/mul.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day3/Constructor_Eg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day3/Methods_Eg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day3/Methods_WO_Static.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day3/NoArgsConstructor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day3/Notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day3/ParameterizedConstructor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day3/Variables_Eg.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day1/TakeHomeAssignment" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day1/TakeHomeAssignment" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day2/TakeHomeAssignment" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day2/TakeHomeAssignment" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,6 +75,7 @@
     "Application.AssignmentOperator.executor": "Run",
     "Application.BitwiseOperator.executor": "Run",
     "Application.ComparisonOperator.executor": "Run",
+    "Application.Constructor_Eg.executor": "Run",
     "Application.DecrementLoop.executor": "Run",
     "Application.Dowhile.executor": "Run",
     "Application.ForLoop.executor": "Run",
@@ -88,10 +84,15 @@
     "Application.IfConditionalStmts.executor": "Run",
     "Application.Largestnumberinarr.executor": "Run",
     "Application.LogicalOperators.executor": "Run",
+    "Application.Methods_Eg.executor": "Run",
+    "Application.Methods_WO_Static.executor": "Run",
     "Application.NestedForLoop.executor": "Run",
+    "Application.NoArgsConstructor.executor": "Run",
+    "Application.ParameterizedConstructor.executor": "Run",
     "Application.String_Eg.executor": "Run",
     "Application.SwitchStmts.executor": "Debug",
     "Application.Variables.executor": "Run",
+    "Application.Variables_Eg.executor": "Run",
     "Application.WhileLoop.executor": "Run",
     "Application.helloWorld.executor": "Run",
     "Application.mul.executor": "Run",
@@ -108,13 +109,13 @@
       <recent name="C:\DevLabs\NovBatch2023\JavaPractice\src\Day1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.String_Eg">
-    <configuration name="Array_eg" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day2.Array_eg" />
+  <component name="RunManager" selected="Application.ParameterizedConstructor">
+    <configuration name="Constructor_Eg" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day3.Constructor_Eg" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day2.*" />
+          <option name="PATTERN" value="Day3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,12 +123,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Arrays_Eg" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day2.Arrays_Eg" />
+    <configuration name="Methods_Eg" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day3.Methods_Eg" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day2.*" />
+          <option name="PATTERN" value="Day3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -135,12 +136,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Largestnumberinarr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day2.Largestnumberinarr" />
+    <configuration name="Methods_WO_Static" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day3.Methods_WO_Static" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day2.*" />
+          <option name="PATTERN" value="Day3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -148,12 +149,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="String_Eg" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day2.String_Eg" />
+    <configuration name="NoArgsConstructor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day3.NoArgsConstructor" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day2.*" />
+          <option name="PATTERN" value="Day3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -161,12 +162,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="mul" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day2.mul" />
+    <configuration name="ParameterizedConstructor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day3.ParameterizedConstructor" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day2.*" />
+          <option name="PATTERN" value="Day3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -176,11 +177,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.String_Eg" />
-        <item itemvalue="Application.mul" />
-        <item itemvalue="Application.Largestnumberinarr" />
-        <item itemvalue="Application.Arrays_Eg" />
-        <item itemvalue="Application.Array_eg" />
+        <item itemvalue="Application.ParameterizedConstructor" />
+        <item itemvalue="Application.NoArgsConstructor" />
+        <item itemvalue="Application.Constructor_Eg" />
+        <item itemvalue="Application.Methods_WO_Static" />
+        <item itemvalue="Application.Methods_Eg" />
       </list>
     </recent_temporary>
   </component>
