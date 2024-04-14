@@ -26,3 +26,12 @@ Parent
 Child
     marriage proposal - xyz - house
 
+
+======================================
+
+Abstraction - process of hiding certain details and showing only essential info
+
+Abstract class - 0-100% abstraction
+Interfaces - 100% abstraction
+
+abstract - incomplete class
