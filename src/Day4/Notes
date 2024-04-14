@@ -35,3 +35,20 @@ Abstract class - 0-100% abstraction
 Interfaces - 100% abstraction
 
 abstract - incomplete class
+
+===================================
+Encapsulation
+
+wrapping of data
+
+getters - get
+setters - set/updating the information
+
+=========================================
+Access Modifiers
+===============
+
+public
+protected
+private
+default
