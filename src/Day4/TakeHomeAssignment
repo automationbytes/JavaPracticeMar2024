@@ -1,0 +1,26 @@
+Overloading
+    student details (String name, int marks)
+
+    student details (String name, double marks)
+
+Overriding
+Animal
+        makeSound
+Dog
+        makeSound
+Cat
+        makeSound
+
+Interface
+
+balancecheck();
+
+mobile
+bank
+
+abstract
+vehicle
+start()
+stop()
+
+extends cycle and car
