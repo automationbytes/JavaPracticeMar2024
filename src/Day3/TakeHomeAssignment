@@ -15,3 +15,18 @@ Implement Methods to find area for
 circle
 rectangle
 square
+
+
+class vehi{
+void start()
+{
+
+}
+void stop(){
+
+}
+}
+
+class bicycle extends vehi
+
+}

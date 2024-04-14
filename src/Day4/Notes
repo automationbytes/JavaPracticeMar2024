@@ -1,0 +1,28 @@
+Polymorphism
+-------------
+Poly - Many
+Morph - Forms
+
+Same obj going to act differently in different situation
+
+Overloading - Early Bindly - Static Binding - Compile Time Polymorphism
+
+Overriding - Late Binding - Dynamic Binding - Runtime Polymorphism
+
+
+Sum (int a, int b)
+
+sum(int a int b int c)
+
+
+=======================================================
+
+Overriding
+----------
+
+
+Parent
+    marriage proposal - abc - house
+Child
+    marriage proposal - xyz - house
+
