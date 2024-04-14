@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fff89630-a0d3-4324-a80b-87672b68963c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Day4/Notes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day4/Overloading_Eg.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day4/Overriding.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day4/Overriding2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day4/OverridingwitConstructors.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day3/TakeHomeAssignment" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day3/TakeHomeAssignment" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,6 +85,8 @@
     "Application.NestedForLoop.executor": "Run",
     "Application.NoArgsConstructor.executor": "Run",
     "Application.Overloading_Eg.executor": "Run",
+    "Application.Overriding2 (1).executor": "Run",
+    "Application.Overriding2.executor": "Run",
     "Application.ParameterizedConstructor.executor": "Run",
     "Application.SingleInheritance.executor": "Run",
     "Application.StaticBlck.executor": "Run",
@@ -117,20 +115,7 @@
       <recent name="C:\DevLabs\NovBatch2023\JavaPractice\src\Day1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Overriding2 (1)">
-    <configuration name="HierarchicalInheritance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day3.HierarchicalInheritance" />
-      <module name="JavaPractice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Day3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.OverridingwitConstructors">
     <configuration name="HybridInheritance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Day3.HybridInheritance" />
       <module name="JavaPractice" />
@@ -183,13 +168,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="OverridingwitConstructors" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day4.OverridingwitConstructors" />
+      <module name="JavaPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.OverridingwitConstructors" />
         <item itemvalue="Application.Overriding2 (1)" />
         <item itemvalue="Application.Overriding2" />
         <item itemvalue="Application.Overloading_Eg" />
         <item itemvalue="Application.HybridInheritance" />
-        <item itemvalue="Application.HierarchicalInheritance" />
       </list>
     </recent_temporary>
   </component>
