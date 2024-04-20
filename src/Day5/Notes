@@ -13,3 +13,16 @@ Exceptions - Recoverable
 
  throw -
  throws -
+
+ ======================================
+ Array
+ Fixed in size
+ Array doesnt hav any readymade methods. util.arrays (collections)
+
+ Collections
+
+ Manipulating the data
+ Store as Objects
+ Homo and Hetro (Same datatype and diff datatype)
+ Growable in nature
+ Readymade methods (Add , search sort etc)
