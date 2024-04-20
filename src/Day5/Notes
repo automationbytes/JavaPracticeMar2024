@@ -1,0 +1,15 @@
+Throwable
+
+Error - Unrecoverable
+Exceptions - Recoverable
+
+    Checked Exceptions - Compile Time Exceptions
+    Unchecked Exceptions - Run Time Exceptions
+
+ ways to handle exceptions
+ try - try the exceptions
+ catch - it will throw our exception
+ finally - irrespective of try catch finally will be executed
+
+ throw -
+ throws -

@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fff89630-a0d3-4324-a80b-87672b68963c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Day4/TakeHomeAssignment" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day5/Exceptions_Eg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day5/Notes" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -77,6 +78,7 @@
     "Application.Encapsulation_Eg (1).executor": "Run",
     "Application.Encapsulation_Eg.executor": "Run",
     "Application.Enum_Eg.executor": "Run",
+    "Application.Exceptions_Eg.executor": "Run",
     "Application.ForLoop.executor": "Run",
     "Application.GreaterorLesser.executor": "Run",
     "Application.HelloWorld.executor": "Run",
@@ -126,7 +128,7 @@
       <recent name="C:\DevLabs\NovBatch2023\JavaPractice\src\Day1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Regex_Eg">
+  <component name="RunManager" selected="Application.Exceptions_Eg">
     <configuration name="DateFunctions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Day4.DateFunctions" />
       <module name="JavaPractice" />
@@ -146,6 +148,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Day4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exceptions_Eg" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day5.Exceptions_Eg" />
+      <module name="JavaPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -179,26 +194,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Student1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day4.Student1" />
-      <module name="JavaPractice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Day4.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Exceptions_Eg" />
         <item itemvalue="Application.Regex_Eg" />
         <item itemvalue="Application.Enum_Eg" />
         <item itemvalue="Application.LocalDateTime_Eg" />
         <item itemvalue="Application.DateFunctions" />
-        <item itemvalue="Application.Student1" />
       </list>
     </recent_temporary>
   </component>
