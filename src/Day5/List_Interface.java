@@ -74,5 +74,8 @@ public class List_Interface {
         System.out.println(al.lastIndexOf(1));
         System.out.println(al);
 
+//
+//        int[] arr = {1,2,3};
+//        arr[3] = 4;
     }
 }
