@@ -5,14 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fff89630-a0d3-4324-a80b-87672b68963c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Notes/Java_Cheatsheet.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day5/Array2ArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day5/LInkedList_EG.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day5/RemoveAll_EG.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day5/RemoveIF_eg.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day5/RemoveRange_Eg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day6/DescendingSet_Eg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day6/HashSet_Eg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day6/LinkedHashSet_Eg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day6/Notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day6/TreeSet_Eg.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day5/List_Interface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day5/List_Interface.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,12 +85,14 @@
     "Application.Exceptions_Eg.executor": "Run",
     "Application.ForLoop.executor": "Run",
     "Application.GreaterorLesser.executor": "Run",
+    "Application.HashSet_Eg.executor": "Run",
     "Application.HelloWorld.executor": "Run",
     "Application.HierarchicalInheritance.executor": "Run",
     "Application.HybridInheritance.executor": "Run",
     "Application.IfConditionalStmts.executor": "Run",
     "Application.LInkedList_EG.executor": "Run",
     "Application.Largestnumberinarr.executor": "Run",
+    "Application.LinkedHashSet_Eg.executor": "Run",
     "Application.List_Interface.executor": "Run",
     "Application.LocalDateTime_Eg.executor": "Run",
     "Application.LogicalOperators.executor": "Run",
@@ -117,6 +117,7 @@
     "Application.Student.executor": "Run",
     "Application.Student1.executor": "Run",
     "Application.SwitchStmts.executor": "Debug",
+    "Application.TreeSet_Eg.executor": "Run",
     "Application.Variables.executor": "Run",
     "Application.Variables_Eg.executor": "Run",
     "Application.WOStatic.executor": "Run",
@@ -136,17 +137,33 @@
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\DevLabs\NovBatch2023\JavaPractice\Notes" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\DevLabs\NovBatch2023\JavaPractice\src\Day1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.LInkedList_EG">
-    <configuration name="Array2ArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day5.Array2ArrayList" />
+  <component name="RunManager" selected="Application.DescendingSet_Eg">
+    <configuration name="DescendingSet_Eg" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day6.DescendingSet_Eg" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day5.*" />
+          <option name="PATTERN" value="Day6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HashSet_Eg" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day6.HashSet_Eg" />
+      <module name="JavaPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -167,12 +184,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RemoveAll_EG" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day5.RemoveAll_EG" />
+    <configuration name="LinkedHashSet_Eg" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day6.LinkedHashSet_Eg" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day5.*" />
+          <option name="PATTERN" value="Day6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -180,25 +197,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RemoveIF_eg" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day5.RemoveIF_eg" />
+    <configuration name="TreeSet_Eg" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day6.TreeSet_Eg" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day5.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RemoveRange_Eg" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day5.RemoveRange_Eg" />
-      <module name="JavaPractice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Day5.*" />
+          <option name="PATTERN" value="Day6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -208,11 +212,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DescendingSet_Eg" />
+        <item itemvalue="Application.TreeSet_Eg" />
+        <item itemvalue="Application.LinkedHashSet_Eg" />
+        <item itemvalue="Application.HashSet_Eg" />
         <item itemvalue="Application.LInkedList_EG" />
-        <item itemvalue="Application.RemoveRange_Eg" />
-        <item itemvalue="Application.RemoveIF_eg" />
-        <item itemvalue="Application.RemoveAll_EG" />
-        <item itemvalue="Application.Array2ArrayList" />
       </list>
     </recent_temporary>
   </component>

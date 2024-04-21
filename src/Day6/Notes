@@ -1,0 +1,11 @@
+Set Interface
+-------------
+
+Duplicates are not allowed
+Growable in nature
+Can store any datatype (Homo/Hetro datatype)
+
+3 implementing classes will be
+Hashset
+LinkedHashset
+TreeSet
