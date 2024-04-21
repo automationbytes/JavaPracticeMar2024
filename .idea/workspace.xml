@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fff89630-a0d3-4324-a80b-87672b68963c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Day6/DescendingSet_Eg.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day6/HashSet_Eg.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day6/LinkedHashSet_Eg.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day6/Notes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day6/TreeSet_Eg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day6/Looping_Eg.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -78,6 +74,7 @@
     "Application.Constructor_Eg.executor": "Run",
     "Application.DateFunctions.executor": "Run",
     "Application.DecrementLoop.executor": "Run",
+    "Application.DescendingSet_Eg.executor": "Run",
     "Application.Dowhile.executor": "Run",
     "Application.Encapsulation_Eg (1).executor": "Run",
     "Application.Encapsulation_Eg.executor": "Run",
@@ -96,6 +93,7 @@
     "Application.List_Interface.executor": "Run",
     "Application.LocalDateTime_Eg.executor": "Run",
     "Application.LogicalOperators.executor": "Run",
+    "Application.Looping_Eg.executor": "Run",
     "Application.Methods_Eg.executor": "Run",
     "Application.Methods_WO_Static.executor": "Run",
     "Application.MultiLevelInheritance.executor": "Run",
@@ -144,7 +142,7 @@
       <recent name="C:\DevLabs\NovBatch2023\JavaPractice\src\Day1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DescendingSet_Eg">
+  <component name="RunManager" selected="Application.Looping_Eg">
     <configuration name="DescendingSet_Eg" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Day6.DescendingSet_Eg" />
       <module name="JavaPractice" />
@@ -171,12 +169,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LInkedList_EG" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day5.LInkedList_EG" />
+    <configuration name="LinkedHashSet_Eg" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day6.LinkedHashSet_Eg" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day5.*" />
+          <option name="PATTERN" value="Day6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -184,8 +182,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LinkedHashSet_Eg" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day6.LinkedHashSet_Eg" />
+    <configuration name="Looping_Eg" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day6.Looping_Eg" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
@@ -212,11 +210,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Looping_Eg" />
         <item itemvalue="Application.DescendingSet_Eg" />
         <item itemvalue="Application.TreeSet_Eg" />
         <item itemvalue="Application.LinkedHashSet_Eg" />
         <item itemvalue="Application.HashSet_Eg" />
-        <item itemvalue="Application.LInkedList_EG" />
       </list>
     </recent_temporary>
   </component>
