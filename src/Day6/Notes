@@ -9,3 +9,15 @@ Can store any datatype (Homo/Hetro datatype)
 Hashset
 LinkedHashset
 TreeSet
+
+===============================
+Map Interface
+-------------
+Used to store in key and value pair
+Key - Will not allow duplicates (set)
+Value - Will allow duplicates (list)
+Only one null key is allowed
+
+HashMap
+LinkedHashMap
+TreeMap
