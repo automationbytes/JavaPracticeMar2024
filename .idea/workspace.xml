@@ -5,13 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fff89630-a0d3-4324-a80b-87672b68963c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Day6/Array2Set.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day6/DesMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day6/HashMap_Eg.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day6/LinkedHashMap_Eg.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day6/TreeMap_EG.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day6/CharFreq.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day6/Compresschar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day6/LoopingMaps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day6/MostoCcured.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day6/TakeHomeAssignment_" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day6/Notes" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day6/Notes" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +75,9 @@
     "Application.ArthimeticOperator.executor": "Run",
     "Application.AssignmentOperator.executor": "Run",
     "Application.BitwiseOperator.executor": "Run",
+    "Application.CharFreq.executor": "Run",
     "Application.ComparisonOperator.executor": "Run",
+    "Application.Compresschar.executor": "Run",
     "Application.Constructor_Eg.executor": "Run",
     "Application.DateFunctions.executor": "Run",
     "Application.DecrementLoop.executor": "Run",
@@ -102,9 +103,11 @@
     "Application.List_Interface.executor": "Run",
     "Application.LocalDateTime_Eg.executor": "Run",
     "Application.LogicalOperators.executor": "Run",
+    "Application.LoopingMaps.executor": "Run",
     "Application.Looping_Eg.executor": "Run",
     "Application.Methods_Eg.executor": "Run",
     "Application.Methods_WO_Static.executor": "Run",
+    "Application.MostoCcured.executor": "Run",
     "Application.MultiLevelInheritance.executor": "Run",
     "Application.NestedForLoop.executor": "Run",
     "Application.NoArgsConstructor.executor": "Run",
@@ -152,9 +155,22 @@
       <recent name="C:\DevLabs\NovBatch2023\JavaPractice\src\Day1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DesMap">
-    <configuration name="Array2Set" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day6.Array2Set" />
+  <component name="RunManager" selected="Application.MostoCcured">
+    <configuration name="CharFreq" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day6.CharFreq" />
+      <module name="JavaPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Compresschar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day6.Compresschar" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
@@ -179,8 +195,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HashMap_Eg" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day6.HashMap_Eg" />
+    <configuration name="LoopingMaps" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day6.LoopingMaps" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
@@ -192,21 +208,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LinkedHashMap_Eg" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day6.LinkedHashMap_Eg" />
-      <module name="JavaPractice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Day6.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TreeMap_EG" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day6.TreeMap_EG" />
+    <configuration name="MostoCcured" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day6.MostoCcured" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
@@ -220,11 +223,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MostoCcured" />
+        <item itemvalue="Application.Compresschar" />
+        <item itemvalue="Application.CharFreq" />
+        <item itemvalue="Application.LoopingMaps" />
         <item itemvalue="Application.DesMap" />
-        <item itemvalue="Application.TreeMap_EG" />
-        <item itemvalue="Application.LinkedHashMap_Eg" />
-        <item itemvalue="Application.HashMap_Eg" />
-        <item itemvalue="Application.Array2Set" />
       </list>
     </recent_temporary>
   </component>
